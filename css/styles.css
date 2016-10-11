@@ -1,0 +1,23 @@
+body {
+  background: url("/img/bg.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+h1 {
+  color: #fff;
+}
+
+label {
+  background-color: blanchedalmond;
+  padding: 10px;
+}
+
+
+
+.container {
+  width: 85%;
+  height: 30em;
+}
